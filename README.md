@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Samiksha Dalvi
 
-<!--
-**samikshadalvi-01/samikshadalvi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+🎓 B.Sc. Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning React.js, ASP.NET and SQL Server
+
+🚀 Passionate about Web Development and building responsive websites
+
+🎯 Looking for Internship Opportunities
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React.js
+- Git
+- GitHub
+- SQL Server
+- ASP.NET (Learning)
+
+---
+
+## 📂 Projects
+
+### 🏠 Rentomatic
+A real estate website for renting, buying and selling properties.
+
+### ✋ Hand Game
+A simple interactive game built using HTML, CSS and JavaScript.
+
+### 🌐 Portfolio Website
+My personal portfolio showcasing my projects and skills.
+
+---
+
+## 📫 Connect with Me
+
+- Email: samikshadalvi1910@gmail.com
+
+⭐ Thanks for visiting my profile!
